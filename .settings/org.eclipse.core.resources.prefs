@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/laptrinhjavaweb/dao/ICategoryDAO.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dao/INewsDAO.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dao/impl/AbstractDAO.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dao/impl/CategoryDAO.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dao/impl/NewsDAO.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/service/INewsService.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/service/impl/CategoryService.java=UTF-8
